@@ -1,10 +1,13 @@
-A sample recipe search.
+A sample recipe search.....Dockerized!
 
 ## Installing
+
 install docker:
+
 	install docker
 	install docker-compose
 run the application:
+
 	docker-compose up -d
 
 
